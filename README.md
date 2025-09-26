@@ -11,6 +11,9 @@
 * 프로젝트 추진내용, 수행과정 및 결과, 문제점을 체계적으로 설명할 수 있는 능력을 배양한다.
 * 협업 능력을 배양한다.
 
+## 논문 과제 1차
+[수정 논문을 10월 10일까지 이 폴더에 제출하시오](https://drive.google.com/drive/folders/1xgksjOAx7fONNeKdERNXFw2s9a7D0mO7)
+
 ## 팀 구성
 
 1팀 DEF / 디펜스 게임 제작.
