@@ -10,6 +10,7 @@
 ### [논문계획서 제출장소](https://drive.google.com/drive/folders/1m60Gy2Q-5G8v2oofc_REoCtjGq3BRZdg)
 
 
+## 수업
 
 수업의 목표
 * 프로젝트 내용을 이해하고 분석할 수 있는 능력을 배양한다.
