@@ -10,6 +10,9 @@
 ### [논문계획서 제출장소](https://drive.google.com/drive/folders/1m60Gy2Q-5G8v2oofc_REoCtjGq3BRZdg)
 
 
+## 논문 과제 1차
+### [수정 논문을 10월 10일까지 이 폴더에 제출하시오](https://drive.google.com/drive/folders/1xgksjOAx7fONNeKdERNXFw2s9a7D0mO7)
+
 ## 수업
 
 수업의 목표
