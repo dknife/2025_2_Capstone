@@ -1,11 +1,14 @@
 # 2025_2 캡스톤디자인 (게임공학과 전공교과)
 
+동명대학교 게임학부 강영민 교수
+
+
 ## [2019 캡스톤 디자인 결과 공유](https://github.com/dknife/2025_2_Capstone/raw/main/resources/%EA%B2%8C%EC%9E%84%EA%B3%B5%ED%95%99%EA%B3%BC_2020_%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%EC%A7%80_%ED%95%A9%EB%B3%B8.pdf)
 
 ## [전공종합시험 관리](https://github.com/dknife/2025_2_Capstone/tree/main/resources/FinalTest)
 ### [논문계획서 제출장소](https://drive.google.com/drive/folders/1m60Gy2Q-5G8v2oofc_REoCtjGq3BRZdg)
 
-동명대학교 게임학부 강영민 교수
+
 
 수업의 목표
 * 프로젝트 내용을 이해하고 분석할 수 있는 능력을 배양한다.
