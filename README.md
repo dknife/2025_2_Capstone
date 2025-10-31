@@ -7,11 +7,9 @@
 
 ## [전공종합시험 관리](https://github.com/dknife/2025_2_Capstone/tree/main/resources/FinalTest)
 ### [팀별 취합 양식](https://github.com/dknife/2025_2_Capstone/raw/main/resources/2.%EC%A1%B8%EC%97%85%EC%A2%85%ED%95%A9%EC%8B%9C%ED%97%98%EA%B4%80%EB%A0%A8_%EC%96%91%EC%8B%9D_%EC%B7%A8%ED%95%A9%EC%96%91%EC%8B%9D.hwp)
-### [논문계획서 제출장소](https://drive.google.com/drive/folders/1m60Gy2Q-5G8v2oofc_REoCtjGq3BRZdg)
 
-
-## 논문 과제 1차
-### [수정 논문을 10월 10일까지 이 폴더에 제출하시오](https://drive.google.com/drive/folders/1xgksjOAx7fONNeKdERNXFw2s9a7D0mO7)
+## 논문 과제 1차 정리 결과
+### [수정 논문을 10월 10일까지 이 폴더에 제출하시오](https://drive.google.com/drive/folders/1u84O5l06KPFxMSuI8TXwR1xLDsAvx_K0)
 
 ## 수업
 
