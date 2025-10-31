@@ -18,7 +18,7 @@
 * 협업 능력을 배양한다.
 
 ## 논문 과제 1차
-[수정 논문을 10월 10일까지 이 폴더에 제출하시오](https://drive.google.com/drive/folders/1xgksjOAx7fONNeKdERNXFw2s9a7D0mO7)
+[1차 정리](https://drive.google.com/drive/folders/1xgksjOAx7fONNeKdERNXFw2s9a7D0mO7)
 
 ## 팀 구성
 
