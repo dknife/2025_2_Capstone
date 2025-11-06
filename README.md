@@ -17,8 +17,12 @@
 * 프로젝트 추진내용, 수행과정 및 결과, 문제점을 체계적으로 설명할 수 있는 능력을 배양한다.
 * 협업 능력을 배양한다.
 
-## 논문 과제 1차
-[1차 정리](https://drive.google.com/drive/folders/1xgksjOAx7fONNeKdERNXFw2s9a7D0mO7)
+## 논문 과제 1차 - 마감
+
+## 논문 취합 결과 
+
+[정리내용](https://drive.google.com/drive/folders/1-FhPNdY6k-jnYmbcDsPNCUMagupraQi-?dmr=1&ec=wgc-drive-globalnav-goto)
+
 
 ## 팀 구성
 
