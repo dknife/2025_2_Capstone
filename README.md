@@ -5,6 +5,10 @@
 
 ## [2019 캡스톤 디자인 결과 공유](https://github.com/dknife/2025_2_Capstone/raw/main/resources/%EA%B2%8C%EC%9E%84%EA%B3%B5%ED%95%99%EA%B3%BC_2020_%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%EC%A7%80_%ED%95%A9%EB%B3%B8.pdf)
 
+## 논문 최종 심사 발표 준
+
+[논문 및 포스터 초안](https://drive.google.com/drive/folders/1wPqSyOQJeyepCGQqsseaz3CZoE1b_gg-?usp=drive_link)
+
 ## 논문 과제 1차 정리 결과
 [1차 정리 폴더](https://drive.google.com/drive/folders/1-FhPNdY6k-jnYmbcDsPNCUMagupraQi-)
 
