@@ -16,6 +16,8 @@
 
 ### [3차 제출 폴더 - 수정 논문 + 포스터](https://drive.google.com/drive/folders/1yqKxEgfJpoZI_IeQC_qhr6NouxRSvTRa?usp=sharing)
 
+* [KoPub 폰트](https://drive.google.com/file/d/1SNJIm9o4upaD36kE3DTq53GLsWxQ9dzW/view?usp=drive_link)
+
 
 ## 논문 과제 1차 정리 결과
 [1차 정리 폴더](https://drive.google.com/drive/folders/1-FhPNdY6k-jnYmbcDsPNCUMagupraQi-)
