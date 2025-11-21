@@ -18,7 +18,7 @@
 
 * [KoPub 폰트](https://drive.google.com/file/d/1SNJIm9o4upaD36kE3DTq53GLsWxQ9dzW/view?usp=drive_link)
 
-
+* 제출 기한: 11월 23일 (일) - 이후 편집본을 11월 27일까지 공개할 예정
 ## 논문 과제 1차 정리 결과
 [1차 정리 폴더](https://drive.google.com/drive/folders/1-FhPNdY6k-jnYmbcDsPNCUMagupraQi-)
 
