@@ -27,6 +27,7 @@
 
 [정리내용](https://drive.google.com/drive/folders/1-FhPNdY6k-jnYmbcDsPNCUMagupraQi-?dmr=1&ec=wgc-drive-globalnav-goto)
 
+[3차 제출 폴더 - 수정 논문 + 포스터](https://drive.google.com/drive/folders/1yqKxEgfJpoZI_IeQC_qhr6NouxRSvTRa?usp=sharing)
 
 ## 팀 구성
 
