@@ -19,8 +19,8 @@
 * [KoPub 폰트](https://drive.google.com/file/d/1SNJIm9o4upaD36kE3DTq53GLsWxQ9dzW/view?usp=drive_link)
 
 * 제출 기한: 11월 23일 (일) 학생들이 제출하고, 이후 편집본을 11월 27일까지 담당교수가 홈페이지에 공개할 예정 (28일 수업에서 최종 수정)
-## 논문 과제 1차 정리 결과
-[1차 정리 폴더](https://drive.google.com/drive/folders/1-FhPNdY6k-jnYmbcDsPNCUMagupraQi-)
+  
+## 논문 과제 1차 정리 결과 (삭제)
 
 
 ### [2019 캡스톤 디자인 결과 공유](https://github.com/dknife/2025_2_Capstone/raw/main/resources/%EA%B2%8C%EC%9E%84%EA%B3%B5%ED%95%99%EA%B3%BC_2020_%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%EC%A7%80_%ED%95%A9%EB%B3%B8.pdf)
