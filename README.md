@@ -12,7 +12,7 @@
 
 ## 논문 최종 심사 발표 준비
 
-[논문 및 포스터 초안](https://drive.google.com/drive/folders/1wPqSyOQJeyepCGQqsseaz3CZoE1b_gg-?usp=drive_link)
+[논문 및 포스터 취합본 공개](https://drive.google.com/drive/folders/1wPqSyOQJeyepCGQqsseaz3CZoE1b_gg-?usp=drive_link)
 
 ### [3차 제출 폴더 - 수정 논문 + 포스터 - 제출완료]
 
