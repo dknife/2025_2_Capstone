@@ -14,7 +14,7 @@
 
 [논문 및 포스터 초안](https://drive.google.com/drive/folders/1wPqSyOQJeyepCGQqsseaz3CZoE1b_gg-?usp=drive_link)
 
-### [3차 제출 폴더 - 수정 논문 + 포스터](https://drive.google.com/drive/folders/1yqKxEgfJpoZI_IeQC_qhr6NouxRSvTRa?usp=sharing)
+### [3차 제출 폴더 - 수정 논문 + 포스터 - 제출완료]
 
 * [KoPub 폰트](https://drive.google.com/file/d/1SNJIm9o4upaD36kE3DTq53GLsWxQ9dzW/view?usp=drive_link)
 
