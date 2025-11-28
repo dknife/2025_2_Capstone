@@ -9,7 +9,7 @@
 
 [발표 방법] 작품 시연과 함께 논문에 담긴 내용을 설명 10분 (작품 시연과 프리젠테이션 방식 자유롭게 혼합)
 
-## 최종 수정본 제출 (요구된 팀만)[https://drive.google.com/drive/folders/1AhsG5PYBXRLLo7MLJyEkTEFcX4nWaSiq?usp=sharing]
+## [최종 수정본 제출 (요구된 팀만)](https://drive.google.com/drive/folders/1AhsG5PYBXRLLo7MLJyEkTEFcX4nWaSiq?usp=sharing)
 
 ## 논문 최종 심사 발표 준비
 
